@@ -88,7 +88,7 @@ st.markdown(
 
 st.markdown('<a id="inicio"></a><br><br>', unsafe_allow_html=True)
 st.image('img/encabezado.png')
-st.caption('Aplicación desarrollada por Julián Giraldo Ocampo - ingenieria@juliangiraldo.co')
+st.caption('Aplicación desarrollada por Julián Darío Giraldo Ocampo - ingenieria@juliangiraldo.co')
 ###############################################################################
 #                        TAMAÑO DEL CONJUNTO DE DATOS                         #
 ###############################################################################
